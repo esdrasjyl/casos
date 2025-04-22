@@ -17,5 +17,23 @@ commit es la accion que resgistro los cambios que se realizó al documento y con
 
 
 git add -> git commit -m "algo para describir los cambios de manera general"
-
+a
 quiero guardar esto
+
+
+
+
+repositorio remoto
+evitar data cruda
+evitar archivos intermedios que pueden ser da deatos crudos.
+puedo elegir ignorar cualquier archivo de info sensible o lo que desee. 
+
+lo que quiero mostar se puede rastrear 
+nuestro codigo, texto plano generador. con el git ignore podemos decidir que y que no subir. 
+
+
+
+una cosa es el archivo del gitignore
+
+
+
