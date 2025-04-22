@@ -35,5 +35,6 @@ nuestro codigo, texto plano generador. con el git ignore podemos decidir que y q
 
 una cosa es el archivo del gitignore
 
+usethis::use_github() 
 
 
