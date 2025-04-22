@@ -42,3 +42,4 @@ ahora tenemos un repositorio remoto github
 
 realizar graficos con {ggplot 2}
 
+logica matematica
