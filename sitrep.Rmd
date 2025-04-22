@@ -36,10 +36,9 @@ nuestro codigo, texto plano generador. con el git ignore podemos decidir que y q
 
 
 
-quiero generar un nuevo grafico
+ahora tenemos un repositorio remoto github
 
 
 
-
-
+realizar graficos con {ggplot 2}
 
