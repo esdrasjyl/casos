@@ -1,1 +1,19 @@
 comparar tasas de ataque en diferenctes grupos
+
+con gitstatus podemos saber que está en el folder y rasterarlo
+
+
+
+git status, para verifiar como estan mis archivos
+
+git add, lo nuevo que agregue
+
+git commit -m "agregamos objetivo del reporte " (idemtificacion del cambio o lo que agregue) confirmamos los cambios
+
+con git add lo paso a una sona de prepracion o stackin area, luego con commited lo guardo en el repostorio
+con status veo lo que esta en el folder
+
+commit es la accion que resgistro los cambios que se realizó al documento y con un mensjae que resgistra los cambios, es la accion de registrar y el elmento de cambio
+
+
+git add -> git commit
