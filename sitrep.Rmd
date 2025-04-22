@@ -37,7 +37,7 @@ nuestro codigo, texto plano generador. con el git ignore podemos decidir que y q
 
 
 quiero generar un nuevo grafico
-
+y un segundo
 
 
 
