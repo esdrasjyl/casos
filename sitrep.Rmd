@@ -16,4 +16,5 @@ con status veo lo que esta en el folder
 commit es la accion que resgistro los cambios que se realizó al documento y con un mensjae que resgistra los cambios, es la accion de registrar y el elmento de cambio
 
 
-git add -> git commit
+git add -> git commit -m "algo para describir los cambios de manera general"
+
